@@ -1,0 +1,54 @@
+_repo: Russian-Silhouettes-More-Stories-of-Russian-Life_66790
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Fell, Marian
+    gutenberg_agent_id: '4814'
+    url: http://www.gutenberg.org/2009/agents/4814
+creator:
+  author:
+    agent_name: Chekhov, Anton Pavlovich
+    aliases:
+    - Чехов, Антон Павлович
+    - Tshehov, Anton
+    - Tchekhoff, Anton
+    - Tchekoff, Anton
+    - Tchekhov, Anton
+    - Tschechow, Anton
+    - Chekov, Anton Pavlovich
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '708'
+    url: http://www.gutenberg.org/2009/agents/708
+    wikipedia: https://en.wikipedia.org/wiki/Anton_Chekhov
+description: ''
+gutenberg_issued: '2021-11-22'
+identifiers:
+  gutenberg: '66790'
+language: en
+pgterms:marc904: https://archive.org/details/russiansilhouett00chek
+pgterms:marc905: 20160821003248chekhov
+pgterms:marc906: '1915'
+pgterms:marc907: GB
+production_note: Richard Tonsing, MFR and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: United Kingdom :Duckworth & Co.,1915.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Short stories, Russian -- Translations into English'
+- !lcsh 'Russia -- Social life and customs -- 1533-1917 -- Fiction'
+- !lcsh 'Chekhov, Anton Pavlovich, 1860-1904 -- Translations into English'
+- GITenberg
+tableOfContents: 'Stories of childhood: The boys. Grisha. A trifle from real life.
+  The cook''s wedding. Shrove Tuesday. In passion week. An incident. A matter of classics.
+  The tutor. Out of sorts -- Stories of youth: A joke. After the theatre. Volodia.
+  A naughty boy. Bliss. Two beautiful girls -- Light and shadow: The chorus girl.
+  The father of a family. The orator. Ionitch. At Christmas time. In the coach house.
+  Lady N----''s story. A journey by cart. The privy councillor. Rothschild''s fiddle.
+  A horsey name. The Petcheneg. The bishop.'
+title: 'Russian Silhouettes: More Stories of Russian Life'
+url: http://www.gutenberg.org/ebooks/66790
