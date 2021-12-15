@@ -5,6 +5,9 @@ contributor:
     agent_name: Fell, Marian
     gutenberg_agent_id: '4814'
     url: http://www.gutenberg.org/2009/agents/4814
+covers:
+- cover_type: archival
+  image_path: 66790-h/images/cover.jpg
 creator:
   author:
     agent_name: Chekhov, Anton Pavlovich
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/708
     wikipedia: https://en.wikipedia.org/wiki/Anton_Chekhov
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66790#Russian-Silhouettes-More-Stories-of-Russian-Life
 gutenberg_issued: '2021-11-22'
 identifiers:
   gutenberg: '66790'
